@@ -1,5 +1,5 @@
 # BsUtils - Brawl Stars Utils
-
+![s](screenshot.jpeg)
 BsUtils is a Ruby-based utility tool designed for interacting with Brawl Stars servers (both production and staging). It provides functionalities to boost viewer counts, send friend requests en masse, and create accounts on the servers. 
 
 **Disclaimer**: This content is not affiliated, approved, sponsored or approved specifically by Supercell and Supercell is not responsible for it. For more, see the Supercell Fan Content Policy: www.supercell.com/fan-content-policy
